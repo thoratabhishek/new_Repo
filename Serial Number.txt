@@ -1,0 +1,70 @@
+
+SerialNumber
+6SJ3KR2
+Abhishek Thorat
+
+Emp Id
+1382
+
+microsoft id
+abhishek.thorat@kanerika.com
+Abhi@12345
+
+thoratabhishek518@outlook.com
+Abhishek@12345
+
+Copmany ID
+EM ID=1382
+PASS=Abhi@12345
+
+
+HSBC BANK
+id = thoratabhishek518
+pass = Abhishek@19000
+security code = Abhishek
+pin = 948321
+Atm pin = 948321
+
+Spin Id
+1382
+Abhi@12345
+
+
+Tello
+Abhishek.thorat@kanerika.com
+Abhishek Thorat
+Abhishek@1900
+
+
+Hackerrank
+Thoratabhishek518@gmail.com
+Abhishek@12345
+
+
+convert readable file into transform
+\r\n
+|
+
+convert tranformend file into readable file
+|
+\n
+
+
+postman tool
+abhishek.thorat@kanerika.com
+Abhi@12345
+abhishek thorat
+
+
+
+ubunto
+code
+12345
+
+
+Enter your emaile.g. monalisa@github.com
+abhishek.thorat@kanerika.com
+Create a password
+Kanerika@12
+Enter a username
+thoratabhishek
