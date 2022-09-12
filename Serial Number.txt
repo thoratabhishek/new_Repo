@@ -62,7 +62,7 @@ code
 12345
 
 
-Enter your emaile.g. monalisa@github.com
+Enter your email
 abhishek.thorat@kanerika.com
 Create a password
 Kanerika@12
